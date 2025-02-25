@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8a21b7c-5256-4c7e-88bc-2695432c8549">
+  <img src="https://github.com/user-attachments/assets/babefafc-cda5-44ea-88a3-f110f4ea3ec0">
+
 </p>
 <h1 align="center"> Giullia Braga (ou Giu) </h1>
     
