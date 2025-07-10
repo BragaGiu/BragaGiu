@@ -5,7 +5,7 @@
 <h1 align="center"> Giullia Braga (ou Giu) </h1>
     
 <div align="center">
-<b> Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta em Análise de Dados </b>
+<b> Analista de Dados </b>
 <br>
 <br>
 
@@ -36,10 +36,10 @@
 
 </div>
 
-Enfermeira Obstetra em transição para a área de tecnologia, transformando minha paixão em uma nova carreira.
+Enfermeira obstétrica com 3 anos de experiência na área assistencial materno-infantil, atualmente direcionando minha carreira para a Análise de Dados. Sigo aprimorando habilidades como preparação, limpeza e análise exploratória de dados, criação de dashboards e relatórios, segmentação, validação de hipóteses e storytelling com dados. Tenho interesse e afinidade na utlização de ferramentas como BigQuery, SQL, PowerBi, Looker Studio. 
 
-<p>:computer: Atualmente estudando como autodidata Desenvolvimento Web, com foco em BackEnd.</p>
-<p>:bar_chart: Curiosa no mundo da Ciência e Análise de Dados.</p>
+<p>:computer: Futura Engenheira de Dados </p>
+<p>:bar_chart: Cursando Jornada de Dados pela Laboratória Brasil e Data Science pelo programa One Next Education da Oracle em parceira com a Alura. </p>
 
 ---
 <div align="center">
